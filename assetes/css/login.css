@@ -5,9 +5,9 @@
 }
 
 @font-face {
-    font-family: "shabnam";
-    src: url(./assetes/fonts/shabnam-font-v5.0.1/Shabnam.woff2);
-} 
+  font-family: "shabnam";
+  src: url(../fonts/shabnam-font-v5.0.1/Shabnam.woff2);
+}
 
 body {
     width: 100%;
@@ -84,16 +84,16 @@ img {
 input::placeholder {
     font-family: "shabnam";
     text-align: left;
-    font-size: 1.2rem;
-    padding-left: 1rem;
+    font-size: 1rem;
+    padding-left: 0.8rem;
 
 }
 
 input {
     width: 100%;
-     height: 10vh  ; 
+   
     border-radius: 10px;
-    padding: 1rem 0;
+    padding:1rem 0;
     outline: none;
     border: none;
     border: 1px solid #a4a5a5;
@@ -107,9 +107,9 @@ button {
     color: white;
     width: 100%;
     border-radius: 10px;
-    font-size: x-large;
+     font-size: 1rem;
     font-family: "shabnam";
-padding: 1rem 0;
+padding: 0.8rem 0;
 border: none;
 margin-bottom: 1rem;
 
